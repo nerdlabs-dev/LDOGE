@@ -1087,9 +1087,9 @@ static const char *strMainNetDNSSeed[][2] = {
     {"seed06", "seed06.litedogeofficial.org"},
     {"seed07", "seed07.litedogeofficial.org"},
     {"seed08", "seed08.litedogeofficial.org"},
-    {"lab-node0", "ldoge0.nerdlabs.dev."},
-    {"lab-node1", "ldoge1.nerdlabs.dev."},
-    {"lab-node3", "ldoge3.nerdlabs.dev."}
+    {"lab-node0", "ldoge0..nerdlabs.dev"},
+    {"lab-node1", "ldoge1.nerdlabs.dev"},
+    {"lab-node2", "ldoge2.nerdlabs.dev"}
 
 
 };

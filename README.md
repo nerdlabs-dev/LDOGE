@@ -1,6 +1,9 @@
-# Punch List
+# Litedogecoin - LDOGE layer 1 Scrypt Algorithm Technology 
+![8b55011e9d71b1e9da2ebfb528d43268](https://github.com/ldoge/LDOGE/blob/master/src/qt/res/icons/litedogecoin-128.png) 
 
-Enable Proof of work again, Make rewards up to 18 coins per P.O.W. Block, Electrum Wallet
+# Punch List 
+
+Enable Proof of work again, Make rewards up to 18 coins per P.O.W. Block, Electrum Wallet, make buildable on all systems
 
 # LiteDoge dev Repository
 
